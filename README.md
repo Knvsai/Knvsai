@@ -8,24 +8,10 @@ My name is ***Naga Venkata Sai Kommu***, I'm energetic, cooperative and self-mot
 
 ## 🙋‍♂️ About Me
 - 🔭 Currently working in [Infosys](https://www.infosys.com/).
-- 🚀 I’m currently learning **React** and **Node.JS**.
-- 👯 I’m looking to collaborate on **Web3 Projects**.
+- 🚀 I’m currently learning **DevOps** and **Kubernetes**.
 - ⚡ Fun Fact: I love to explore new technologies.
-- 📖 Sometimes I write about some topics related to Web Development on **Medium**. 
+- 📖 Sometimes I write about some topics related to DevOps on **Medium**. 
 
-## ✨ 2022 Goals
-  - [ ] Complete Portfolio Website
-  - [ ] Learn Web3 Development
-  - [ ] Build some Blockchain projects
-
-
-## 🛠️ Languages, Frameworks & Libraries:
-<p align = "center">
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp; <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp; <img src = "https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black">&nbsp; <img src = "https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
-</p>
-<p align = "center">
-  <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp; <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">&nbsp; <img src = "https://img.shields.io/badge/Flutter-027DFD?style=for-the-badge&logo=flutter&logoColor=white">&nbsp; <img src = "https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-</p>
 
 ## 📊 My Github Stats
 <p align = "center">
